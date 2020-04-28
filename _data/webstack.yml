@@ -1,24 +1,24 @@
-- name: 常用
+- name: 我搭建的.
   icon: linecons-star
   links: 
     - title: 雪雪的小站。
-      logo: /assets/images/logos/dribbble.png
+      logo: /assets/images/logos/xuexue.png
       url: http://pan.xiexue.xyz/
       description: 
     - title: Long's Blog.
-      logo: /assets/images/logos/zcool.png
+      logo: /assets/images/logos/long.png
       url: http://web.xiexue.xyz/
       description:       
-    - title: Onemanager
-      logo: /assets/images/logos/behance.png
+    - title: OneManager
+      logo: /assets/images/logos/onemanager.png
       url: https://cloud.xiexue.xyz/
       description: 个人云盘，有境内和境外两个空间。
     - title: FODI
-      logo: /assets/images/logos/uicn.png
+      logo: /assets/images/logos/fodi.png
       url: http://pan.xiexue.xyz/
       description: 个人网盘,国内服务器。
     - title: Long's Todolist.
-      logo: /assets/images/logos/pinterest.png
+      logo: /assets/images/logos/todo.png
       url: http://todo.xiexue.xyz/
       description: 全球美图收藏采集站 
      

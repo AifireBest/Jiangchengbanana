@@ -3,7 +3,7 @@
   links: 
     - title: 雪雪的小站。
       logo: /assets/images/logos/xuexue.png
-      url: http://pan.xiexue.xyz/
+      url: http://xiexue.xyz/
       description: 
     - title: Long's Blog.
       logo: /assets/images/logos/long.png
@@ -20,7 +20,7 @@
     - title: Long's Todolist.
       logo: /assets/images/logos/todo.png
       url: http://todo.xiexue.xyz/
-      description: 全球美图收藏采集站 
+      description: 待办事项。
      
       
 - name: 常用推荐

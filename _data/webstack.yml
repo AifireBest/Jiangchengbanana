@@ -1,3 +1,28 @@
+- name: 我搭建的
+  icon: linecons-star
+  links: 
+    - title: FODI
+      logo: /assets/images/logos/dribbble.png
+      url: http://pan.xiexue.xyz/
+      description: 个人网盘。
+     - title: OneManager
+      logo: /assets/images/logos/dribbble.png
+      url: http://cloud.xiexue.xyz/DIsk_CN/
+      description:  个人网盘。
+     - title: 雪雪的小站。
+      logo: /assets/images/logos/dribbble.png
+      url: https://xiexue.xyz/
+      description: 
+     - title: Loong's Blog.
+      logo: /assets/images/logos/dribbble.png
+      url: http://web.xiexue.xyz/
+      description: 
+     - title: Long's Todolist.
+      logo: /assets/images/logos/dribbble.png
+      url: http://todo.xiexue.xyz/
+      description:       
+     
+      
 - name: 常用推荐
   icon: linecons-star
   links: 
